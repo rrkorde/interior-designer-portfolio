@@ -3,6 +3,9 @@
 // Interactive Features & Animations
 // ===================================
 
+// Import styles
+import './style.css';
+
 // Initialize AOS (Animate On Scroll)
 AOS.init({
     duration: 800,
