@@ -24,7 +24,7 @@ Production files will be in the `dist/` folder.
 ### 1. Branding & Business Information
 
 #### Update Business Name
-Search and replace "Elite Interiors" with your business name in:
+Search and replace "Crekaar" with your business name in:
 - [index.html](index.html) - Multiple locations
 - [README.md](README.md)
 - [manifest.json](manifest.json)

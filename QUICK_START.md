@@ -24,7 +24,7 @@ npm run build
 
 ### Update Your Info (5 minutes)
 1. Open [index.html](index.html)
-2. Find & replace "Elite Interiors" with your business name
+2. Find & replace "Crekaar" with your business name
 3. Update contact section (phone, email, address)
 4. Update social media links
 
@@ -101,7 +101,7 @@ Drag `dist/` folder after running `npm run build`
 
 ## 🎯 Checklist Before Launch
 
-- [ ] Replace all "Elite Interiors" text
+- [ ] Replace all "Crekaar" text
 - [ ] Update contact information
 - [ ] Add your portfolio images
 - [ ] Customize colors to your brand

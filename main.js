@@ -632,7 +632,7 @@ window.addEventListener('beforeinstallprompt', (e) => {
 // Console Welcome Message
 // ===================================
 console.log(
-    '%c Elite Interiors ',
+    '%c Crekaar ',
     'background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-size: 24px; font-weight: bold; padding: 10px 20px; border-radius: 8px;'
 );
 console.log(

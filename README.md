@@ -1,4 +1,4 @@
-# Elite Interiors - Modern Interior Design Portfolio Website
+# Crekaar - Modern Interior Design Portfolio Website
 
 A stunning, feature-rich interior design portfolio website built with modern web technologies (January 2026).
 
@@ -89,7 +89,7 @@ Edit CSS custom properties in `style.css`:
 - Modify contact information in the contact section
 
 ### Branding
-- Replace `Elite Interiors` with your business name
+- Replace `Crekaar` with your business name
 - Update logo in navigation
 - Customize favicon and app icons
 
@@ -134,7 +134,7 @@ crekkar/
 
 ## License
 
-© 2026 Elite Interiors. All rights reserved.
+© 2026 Crekaar. All rights reserved.
 
 ## Support
 
