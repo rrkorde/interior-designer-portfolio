@@ -138,4 +138,4 @@ crekkar/
 
 ## Support
 
-For questions or support, contact: info@eliteinteriors.com
+For questions or support, contact: info@crekaar.com

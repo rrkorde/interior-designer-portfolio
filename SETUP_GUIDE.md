@@ -33,7 +33,7 @@ Search and replace "Crekaar" with your business name in:
 In [index.html](index.html), find the contact section and update:
 ```html
 <div class="contact-value">+1 (555) 123-4567</div>  <!-- Your phone -->
-<div class="contact-value">info@eliteinteriors.com</div>  <!-- Your email -->
+<div class="contact-value">info@crekaar.com</div>  <!-- Your email -->
 <div class="contact-value">123 Design Street, NY 10001</div>  <!-- Your address -->
 ```
 
