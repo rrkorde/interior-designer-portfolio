@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/',
+  base: '/interior-designer-portfolio/',
   build: {
     minify: 'terser',
     terserOptions: {
